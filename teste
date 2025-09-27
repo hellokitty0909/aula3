@@ -1,0 +1,25 @@
+let nome = "aysha";
+var idade = 16;
+const cpf = "123.456.789-10";
+let vivo = true; 
+
+console.log("CPF cliente: " + cpf);
+console.log(typeof(vivo));
+console.log(typeof(cpf));
+console.log(typeof(idade));
+
+
+let num1 = 10;=let num2 = 5;
+
+console.log(num1 + num2);
+console.log(num1 * num2);
+console.log(num1 / num2);
+console.log(num1 - num2);
+console.log((num1 + num2) * num1);
+
+
+
+let idadeCliente = 19
+let idadeAysha = "19"; 
+console.log(idadeCliente > 18);
+if 
